@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://haidi5476381.github.io/sitemap.xml 
